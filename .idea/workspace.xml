@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
@@ -29,6 +32,7 @@
     "Docker.Docker Image.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Projects/MurphiLLM",
     "node.js.detected.package.eslint": "true",
@@ -72,6 +76,7 @@
       <updated>1714966340870</updated>
       <workItem from="1714966341629" duration="7847000" />
       <workItem from="1714981173476" duration="43000" />
+      <workItem from="1714981298882" duration="369000" />
     </task>
     <servers />
   </component>
