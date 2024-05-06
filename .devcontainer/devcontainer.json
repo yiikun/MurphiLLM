@@ -1,0 +1,8 @@
+{
+  "name": "ChatMC-Container",
+  "image": "amazonjdk",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "forwardPorts": [80]
+}
