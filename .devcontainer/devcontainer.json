@@ -1,6 +1,6 @@
 {
   "name": "ChatMC-Container",
-  "image": "amazonjdk",
+  "image": "ligaard/jdk17-gradle73",
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
   },
